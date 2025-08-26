@@ -33,6 +33,10 @@ The notebook concludes with a detailed breakdown of these strategic recommendati
 
 ---
 
+![Principal Components Analysis After Clustering](PCA_For_Github.png)
+
+---
+
 ## How to Use
 
 The included Jupyter Notebook (`.ipynb`) contains the complete analysis. While the original dataset is not provided publicly, all outputs, visualizations, and conclusions are visible, demonstrating the full workflow and final insights.
