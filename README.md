@@ -33,6 +33,8 @@ The notebook concludes with a detailed breakdown of these strategic recommendati
 
 ---
 
+Clusters were also visualized using Principal Component Analysis, which is shown in the picture below.
+
 ![Principal Components Analysis After Clustering](PCA_For_Github.png)
 
 ---
